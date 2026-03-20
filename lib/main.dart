@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-// === NUEVA IMPORTACIÓN ===
+// === NUEVA IMPORTACIÓN === 
 import 'package:auto_size_text/auto_size_text.dart';
 
 void main() {
